@@ -148,6 +148,6 @@ number_guess/
 
 ## Submission Checklist
 
-- [ ] A 10-second video of gameplay **before** the changes, showing the bug
-- [ ] A 10-second video of gameplay **after** the changes, showing the bug fixed and the new features working
+- [x] A 10-second video of gameplay **before** the changes, showing the bug
+- [x] A 10-second video of gameplay **after** the changes, showing the bug fixed and the new features working
 - [x] The Chat/LLM used page link, with the complete chat history: https://claude.ai/share/c101db18-0944-40b7-8206-49b1c9e7d518
