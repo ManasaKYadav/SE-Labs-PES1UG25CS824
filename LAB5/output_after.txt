@@ -1,0 +1,14 @@
+﻿Asha bids 3000: True
+Ben bids 3000 (same amount): False
+Asha bids 3050 (+50): False
+Seller bids on own item: False
+Bid at 9:30 AM (before 18:00 close): True
+Late bid (next day): False
+Winner: None
+Final price (reserve 5000): None
+Top bidders: ['dev', 'asha']
+Rs.0 bid on LOT3 (reserve 800): False
+LOT3 winner: None
+No-bid winner: None
+Listing HTML: <h2>&lt;script&gt;alert(&#39;pwned&#39;)&lt;/script&gt;Old Radio</h2><p>Current bid: Rs.0</p>
+Badge: <span class='bidder'>&lt;img src=x onerror=alert(1)&gt;</span>
