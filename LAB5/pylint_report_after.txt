@@ -1,6 +1,4 @@
-﻿************* Module auction_system
-auction_system.py:170:0: C0304: Final newline missing (missing-final-newline)
-
-------------------------------------------------------------------
-Your code has been rated at 9.89/10 (previous run: 6.09/10, +3.80)
+﻿
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.89/10, +0.11)
 
